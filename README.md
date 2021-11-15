@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @IliasElabbassi
 - 👀 I’m interested in blockchain and robotics.
-- 🌱 I’m currently learning about ambeded systems in university (currently in my first year of my master degree)
+- 🌱 I’m currently learning about embedded systems in university (currently in my first year of my master degree)
 - 📫 How to reach me iliaselabbassi@outlook.fr
 
 <!---
