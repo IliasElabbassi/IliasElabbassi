@@ -1,5 +1,5 @@
  Hi, I’m @IliasElabbassi <br>
- currently working for Niji Lille as a javascript Fullstack developer.
+ Currently working for Niji Lille as a javascript Fullstack developer.
  Interested in robotics and blockchain.<br>
  And currently learning about embedded systems in university (last year of my master degree at the moment) <br>
  Reach me at iliaselabbassi@outlook.fr <br>
