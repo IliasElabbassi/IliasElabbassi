@@ -1,8 +1,7 @@
- Hi, I’m @IliasElabbassi <br>
- Currently working for Niji Lille as a javascript Fullstack developer.
- Interested in robotics and blockchain.<br>
- And currently learning about embedded systems in university (last year of my master degree at the moment) <br>
- Reach me at iliaselabbassi@outlook.fr <br>
+Hi, I’m @IliasElabbassi <br>
+Interested in robotics and embedded systems.<br>
+I just finished my Master degree in IoT & embedded systems, in France.
+Reach me at iliaselabbassi@outlook.fr <br>
 
 <!---
 IliasElabbassi/IliasElabbassi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
