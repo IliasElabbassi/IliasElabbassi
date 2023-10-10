@@ -1,6 +1,6 @@
 Hi, I’m @IliasElabbassi <br>
 Interested in robotics and embedded systems.<br>
-I just finished my Master degree in IoT & embedded systems, in France.
+I just finished my Master degree in IoT & embedded systems, in France. <br>
 Reach me at iliaselabbassi@outlook.fr <br>
 
 <!---
