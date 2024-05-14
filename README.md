@@ -1,5 +1,5 @@
 Hi, I’m @IliasElabbassi <br>
-Interested in robotics and embedded systems.<br>
+Interested in robotics and computer vision.<br>
 I just finished my Master degree in IoT & embedded systems, in France. <br>
 Reach me at iliaselabbassi@outlook.fr <br>
 
